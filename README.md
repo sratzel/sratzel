@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-    <img style="height:10rem;" align="left" src="https://github-readme-stats.vercel.app/api?username=sratzelttv&bg_color=30,1e3975,5e115c&title_color=fff&text_color=fff&show_icons=true&theme=radical" /><img style="height:10rem;" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=sratzelttv&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&background=30%2C1E3975%2C5E115C&fire=EB5454&dates=E3A820&border=E3A820&ring=E3A820&stroke=E3A820)](https://git.io/streak-stats" />
+    <img style="height:10rem;" align="left" src="https://github-readme-stats.vercel.app/api?username=sratzel&bg_color=30,1e3975,5e115c&title_color=fff&text_color=fff&show_icons=true&theme=radical" /><img style="height:10rem;" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=sratzel&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&background=30%2C1E3975%2C5E115C&fire=EB5454&dates=E3A820&border=E3A820&ring=E3A820&stroke=E3A820)](https://git.io/streak-stats" />
 </div>
 <br>
 <br>
