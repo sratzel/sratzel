@@ -12,10 +12,10 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://img.shields.io/github/followers/sammy1122ttv?style=social">
-  <img src="https://img.shields.io/github/stars/sammy1122ttv?style=social">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sammy1122ttv">
-  <img src="https://komarev.com/ghpvc/?username=sammy1122ttv">
+  <img src="https://img.shields.io/github/followers/sratzel?style=social">
+  <img src="https://img.shields.io/github/stars/sratzel?style=social">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sratzel">
+  <img src="https://komarev.com/ghpvc/?username=sratzel">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-    <img style="height:10rem;" align="left" src="https://github-readme-stats.vercel.app/api?username=sammy1122ttv&bg_color=30,1e3975,5e115c&title_color=fff&text_color=fff&show_icons=true&theme=radical" /><img style="height:10rem;" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=sammy1122ttv&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&background=30%2C1E3975%2C5E115C&fire=EB5454&dates=E3A820&border=E3A820&ring=E3A820&stroke=E3A820)](https://git.io/streak-stats" />
+    <img style="height:10rem;" align="left" src="https://github-readme-stats.vercel.app/api?username=sratzelttv&bg_color=30,1e3975,5e115c&title_color=fff&text_color=fff&show_icons=true&theme=radical" /><img style="height:10rem;" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=sratzelttv&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&background=30%2C1E3975%2C5E115C&fire=EB5454&dates=E3A820&border=E3A820&ring=E3A820&stroke=E3A820)](https://git.io/streak-stats" />
 </div>
 <br>
 <br>
